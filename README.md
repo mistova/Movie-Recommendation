@@ -1,2 +1,2 @@
-# Movie-Recommendation
- 
+# Movie Recommendation
+ Basic Movie Recommendation Algorithm
